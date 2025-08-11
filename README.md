@@ -1,5 +1,3 @@
-# profile
-
 ## Hi there! 👋 I'm Vignesh
 
 Backend Engineer | Mobility Solutions | Node.js & Cloud Enthusiast  
